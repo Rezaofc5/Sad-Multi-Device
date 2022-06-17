@@ -110,8 +110,8 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 global.hsquere = '⛶', '❏', '⫹⫺'
 
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'eza bot'
+global.author = 'owner Reza gamteng'
 
 global.multiplier = 69 // The higher, The harder levelup
 
