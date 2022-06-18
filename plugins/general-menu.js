@@ -95,8 +95,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
    conn.sendButton(m.chat, `*${wish()}, ${name} 👋*`, text.trim(), await genProfile(conn, m), [['Speedtest', _p + 'ping'], ['Owner', _p + 'owner']], false, { quoted: fkon, contextInfo: { externalAdReply: { showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: 'https://www.kibrispdr.org/dwn/7/yotsuba-nakano-wallpaper.jpg',
-title: 'Simple Bot Esm',
-body: 'By Papah-Chan',
+title: 'BOT MD 2022',
+body: 'By reza Ganteng',
 thumbnail: fs.readFileSync("./thumbnail.jpg"),
 sourceUrl: 'https://youtu.be/poD-7_U3jXk'
 }
