@@ -55,9 +55,9 @@ https://github.com/FahriAdison
 *❉ Krisna:*
 `
 conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
-            title: `© Sad-Bot`,
-            body: 'Simple Bot Esm',
-            description: 'Made By Papah-Chan',
+            title: `BOT MD 2022`,
+            body: 'EzaBot-MD',
+            description: 'Made By Reza Ganteng',
             mediaType: 2,
           thumbnail: await(await fetch(hoppai.getRandom())).buffer(),
          mediaUrl: sgc
