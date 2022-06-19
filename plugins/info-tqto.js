@@ -56,8 +56,8 @@ https://github.com/FahriAdison
 `
 conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
             title: `BOT MD 2022`,
-            body: 'EzaBot-MD',
-            description: 'Made By Reza Ganteng',
+            body: 'BOT BY REZA GAMTENG',
+            description: 'Made By Papah-Chan',
             mediaType: 2,
           thumbnail: await(await fetch(hoppai.getRandom())).buffer(),
          mediaUrl: sgc
