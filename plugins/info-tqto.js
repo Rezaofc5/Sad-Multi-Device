@@ -46,10 +46,10 @@ https://github.com/LitRHap
 https://github.com/Rlxfly
 *❉ Aine:*
 https://github.com/Aiinne
-*▸ - - - —「 KANG RECODE 」— - - - ◂*
+_*▸ - - - —「 KANG RECODE 」— - - - ◂*_
 *❉ RezaOfc:*
 https://github.com/Rezaofc
-*▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
+_*▸ -  - —「 SPESIAL HELPER 」— -  - ◂*_
 *❉ Kannachan:*
 *❉ Johannes:*
 *❉ Krisna:*
